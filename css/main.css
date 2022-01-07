@@ -305,7 +305,6 @@ hr {
 }
 
 hr:after {
-    background: #fff;
     content: '§';
     padding: 0 3px;
     position: relative;
